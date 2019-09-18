@@ -1,4 +1,4 @@
-# AJS
+<a href="http://nav.cx/d9Iz08v"><img height="36" border="0" src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png"></a>
 memperbarui
 # 1 SELFBOT 5 ASSIST 1 ANTI JS
 
