@@ -1,5 +1,5 @@
 <a href="http://nav.cx/d9Iz08v"><img height="36" border="0" src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png"></a>
-memperbarui
+
 # 1 SELFBOT 5 ASSIST 1 ANTI JS
 
 # PRAST HUNTER
@@ -50,9 +50,9 @@ HEADER CHROMEOS
 
     sudo pip3 install youtube_dl
 
-    git clone https://github.com/fajarprasetiya/AJS
+    git clone https://github.com/teambotmax/ajs
 
-    cd AJS
+    cd ajs
 
     python ajs7.py
 
@@ -90,9 +90,9 @@ HEADER CHROMEOS
 
     pip3 install tweepy
 
-    git clone https://github.com/fajarprasetiya/AJS
+    git clone https://github.com/teambotmax/ajs
 
-    cd AJS
+    cd ajs
 
     python3 ajs7.py
 
